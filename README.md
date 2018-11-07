@@ -14,5 +14,6 @@ Future Updates:
 If I have time I may also add music and sounds.
 
 Credits:
+Coded by slime103.
 The art and theming was done by my friend Sama Srinivas.
 The ladder sprite was a downloaded asset.
