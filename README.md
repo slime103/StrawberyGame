@@ -17,3 +17,6 @@ Credits:
 Coded by slime103.
 The art and theming was done by my friend Sama Srinivas.
 The ladder sprite was a downloaded asset.
+
+Update:
+The executables have been added for Windows and Mac!
