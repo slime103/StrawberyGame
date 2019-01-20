@@ -3,6 +3,9 @@ A simple processing game. (Midterm Assignment)
 
 StrawberryGame Version 3
 
+Update:
+The executables have been added for Windows and Mac!
+
 Info:
 This game is currently playable through Processing, but I'm currently working on adding executable files for all platforms.
 This is the game I created for my Midterm project in Intro to Programming for Games at NYU.
@@ -17,6 +20,3 @@ Credits:
 Coded by slime103.
 The art and theming was done by my friend Sama Srinivas.
 The ladder sprite was a downloaded asset.
-
-Update:
-The executables have been added for Windows and Mac!
